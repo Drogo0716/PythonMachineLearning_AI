@@ -1,0 +1,5 @@
+Model,Training Accuracy %,testing Accuracy %
+Logistic Regression,60.0739371534196,60.0375234521576
+KNeighborsClassifier,60.0739371534196,60.0375234521576
+SupportVectorMachine,60.0739371534196,60.0375234521576
+Decision Tree Classifier,60.258780036968574,59.849906191369605
